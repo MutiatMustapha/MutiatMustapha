@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mutiat Mustapha</h1>
 <h3 align="center">An aspiring Cloud Data Engineer from Nigeria.</h3>
-<img align=”right” alt=”Coding” width=”400” src=”https://res.cloudinary.com/practicaldev/image/fetch/s--V-mpRIde--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/62tl8vk2bv6lxaze5gn0.gif”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutiatmustapha&label=Profile%20views&color=0e75b6&style=flat" alt="mutiatmustapha" /> </p>
 
